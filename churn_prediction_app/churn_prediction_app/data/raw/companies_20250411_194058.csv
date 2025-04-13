@@ -1,0 +1,51 @@
+id,name,industry,hs_lead_status,lifecyclestage,numberofemployees,total_revenue,num_locations,contract_value,contract_start_date,contract_end_date,last_meeting_date,client_status
+1,Company 1,Real Estate,OPEN,customer,4177,48292422,1,183876,2022-09-21,2025-01-01,2025-04-05,active
+2,Company 2,Education,OPEN,customer,3804,27987725,100,268028,2024-01-08,2025-03-19,2025-02-14,active
+3,Company 3,Healthcare,OPEN,customer,1022,39334332,5,197682,2024-04-03,2026-02-21,2025-04-03,active
+4,Company 4,Manufacturing,OPEN,customer,1923,6414116,3,411951,2024-06-17,2027-04-05,2025-04-03,active
+5,Company 5,Retail,OPEN,customer,3759,45845235,20,319349,2024-01-09,2026-04-25,2025-03-06,active
+6,Company 6,Technology,OPEN,customer,3725,49012046,5,481476,2022-04-23,2024-03-26,2025-02-21,active
+7,Company 7,Education,OPEN,customer,2675,16816655,10,175785,2024-02-06,2025-05-16,2025-03-25,active
+8,Company 8,Education,OPEN,customer,1036,36365815,15,362473,2024-01-14,2025-09-07,2025-02-16,active
+9,Company 9,Retail,OPEN,customer,4246,17789990,5,461525,2023-04-30,2024-12-21,2025-03-07,active
+10,Company 10,Hospitality,CLOSED,customer,3246,42386134,15,360962,2021-06-25,2023-05-20,2023-04-16,churned
+11,Company 11,Manufacturing,OPEN,customer,1433,47845930,50,213952,2023-12-15,2025-04-12,2025-03-13,active
+12,Company 12,Finance,OPEN,customer,4699,6863405,5,347387,2024-04-26,2026-03-20,2025-03-25,active
+13,Company 13,Healthcare,CLOSED,customer,1079,31912718,100,88200,2021-01-30,2022-06-08,2022-05-20,churned
+14,Company 14,Technology,OPEN,customer,2071,11030641,20,370180,2024-09-14,2027-05-29,2025-03-21,active
+15,Company 15,Real Estate,OPEN,customer,3057,44853707,3,34130,2024-09-27,2025-06-06,2025-03-09,active
+16,Company 16,Retail,OPEN,customer,381,22161462,10,76646,2025-02-16,2025-05-04,2025-03-27,active
+17,Company 17,Technology,CLOSED,customer,3436,13488825,5,123810,2021-08-03,2023-04-27,2023-04-02,churned
+18,Company 18,Technology,OPEN,customer,3825,30876560,10,417715,2024-04-10,2025-10-31,2025-03-14,active
+19,Company 19,Retail,CLOSED,customer,1486,6033926,100,95372,2022-11-13,2024-02-05,2023-12-16,churned
+20,Company 20,Finance,OPEN,customer,1995,1478949,50,279499,2024-11-11,2027-07-27,2025-03-31,active
+21,Company 21,Education,OPEN,customer,2335,47225076,1,58737,2024-08-13,2025-10-17,2025-03-01,active
+22,Company 22,Manufacturing,OPEN,customer,3696,37538817,5,338802,2024-02-11,2026-07-05,2025-03-27,active
+23,Company 23,Finance,OPEN,customer,950,32037185,100,157444,2023-01-05,2025-04-18,2025-03-10,active
+24,Company 24,Healthcare,OPEN,customer,1822,34179289,15,443978,2023-04-13,2024-05-06,2025-03-15,active
+25,Company 25,Education,OPEN,customer,66,23776888,100,123004,2022-10-18,2025-04-30,2025-03-19,active
+26,Company 26,Hospitality,OPEN,customer,2560,10244578,5,471990,2024-03-20,2025-04-29,2025-03-10,active
+27,Company 27,Manufacturing,OPEN,customer,4240,45598578,50,313125,2024-11-30,2027-02-24,2025-03-07,active
+28,Company 28,Real Estate,OPEN,customer,3502,10648154,15,167828,2024-06-28,2025-04-20,2025-03-25,active
+29,Company 29,Manufacturing,OPEN,customer,1630,20870939,100,285854,2024-02-14,2026-10-27,2025-02-28,active
+30,Company 30,Manufacturing,OPEN,customer,1554,14413428,5,400709,2023-09-12,2025-01-20,2025-03-12,active
+31,Company 31,Education,OPEN,customer,3197,32849064,100,145986,2024-01-01,2026-10-03,2025-02-13,active
+32,Company 32,Real Estate,OPEN,customer,2636,30654967,3,382888,2024-04-11,2025-06-07,2025-03-31,active
+33,Company 33,Healthcare,OPEN,customer,3322,11841797,5,252354,2024-01-19,2025-07-06,2025-03-17,active
+34,Company 34,Real Estate,OPEN,customer,4815,25830520,50,310581,2022-07-05,2025-06-09,2025-02-22,active
+35,Company 35,Hospitality,OPEN,customer,3552,18278348,10,435801,2023-01-05,2025-04-28,2025-03-22,active
+36,Company 36,Real Estate,OPEN,customer,3966,6199111,100,325293,2025-02-27,2028-02-07,2025-04-01,active
+37,Company 37,Education,CLOSED,customer,2589,8510844,1,66544,2022-05-06,2024-01-30,2024-01-13,churned
+38,Company 38,Finance,OPEN,customer,606,46674369,50,10498,2022-06-15,2025-06-02,2025-03-16,active
+39,Company 39,Hospitality,OPEN,customer,3310,25306327,5,303673,2023-06-29,2025-01-04,2025-03-24,active
+40,Company 40,Hospitality,OPEN,customer,4223,12870061,50,315088,2024-03-24,2025-07-20,2025-03-11,active
+41,Company 41,Hospitality,OPEN,customer,4628,16758709,15,457492,2022-07-07,2023-09-13,2025-02-25,active
+42,Company 42,Real Estate,OPEN,customer,1180,25026399,5,341422,2023-08-23,2026-01-10,2025-03-02,active
+43,Company 43,Finance,OPEN,customer,3787,31369268,20,179724,2023-09-19,2025-01-15,2025-02-25,active
+44,Company 44,Real Estate,OPEN,customer,1501,13476617,10,491904,2024-02-05,2025-10-21,2025-03-04,active
+45,Company 45,Real Estate,OPEN,customer,4724,35459792,100,302611,2022-05-29,2023-07-18,2025-03-12,active
+46,Company 46,Manufacturing,OPEN,customer,4635,27315648,5,218638,2022-08-09,2025-05-05,2025-02-11,active
+47,Company 47,Finance,OPEN,customer,1787,11414291,10,472474,2023-01-17,2024-01-31,2025-03-03,active
+48,Company 48,Manufacturing,CLOSED,customer,1463,45028748,5,464624,2022-09-04,2024-02-26,2023-12-18,churned
+49,Company 49,Technology,OPEN,customer,1698,10254247,10,461827,2024-02-14,2026-04-29,2025-03-07,active
+50,Company 50,Finance,OPEN,customer,2890,35342377,15,211424,2022-06-17,2024-03-04,2025-03-08,active

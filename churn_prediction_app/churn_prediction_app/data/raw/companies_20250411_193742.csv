@@ -1,0 +1,21 @@
+id,name,industry,hs_lead_status,lifecyclestage,numberofemployees,total_revenue,num_locations,contract_value,contract_start_date,contract_end_date,last_meeting_date,client_status
+1,Company 1,Technology,OPEN,customer,1930,216467,100,145196,2023-08-11,2025-05-12,2025-02-28,active
+2,Company 2,Manufacturing,OPEN,customer,2628,19802084,10,60648,2023-03-26,2025-04-03,2025-03-23,active
+3,Company 3,Finance,OPEN,customer,3201,4562375,10,84309,2022-10-25,2025-04-13,2025-02-26,active
+4,Company 4,Education,OPEN,customer,3768,45065375,5,330353,2024-08-14,2027-07-08,2025-04-03,active
+5,Company 5,Manufacturing,CLOSED,customer,4093,43136674,5,208567,2021-02-23,2022-02-15,2021-12-14,churned
+6,Company 6,Technology,OPEN,customer,3570,21300061,10,302074,2022-10-01,2025-04-19,2025-04-04,active
+7,Company 7,Healthcare,OPEN,customer,1408,35242889,20,80358,2023-11-07,2025-10-26,2025-02-10,active
+8,Company 8,Real Estate,OPEN,customer,3219,20044415,1,430557,2023-01-18,2025-11-01,2025-04-03,active
+9,Company 9,Education,CLOSED,customer,2534,37846671,20,322381,2021-10-18,2022-11-28,2022-10-30,churned
+10,Company 10,Retail,OPEN,customer,3604,38237908,5,69885,2022-11-16,2023-11-27,2025-04-01,active
+11,Company 11,Technology,OPEN,customer,124,42881500,5,353157,2024-10-05,2025-04-26,2025-02-19,active
+12,Company 12,Education,OPEN,customer,3292,15488307,10,493860,2022-09-22,2025-02-08,2025-02-22,active
+13,Company 13,Finance,OPEN,customer,2332,32400757,50,380903,2024-04-12,2026-03-16,2025-03-23,active
+14,Company 14,Hospitality,OPEN,customer,356,4556055,20,367865,2024-06-03,2025-05-24,2025-03-30,active
+15,Company 15,Retail,OPEN,customer,3587,3633490,10,40721,2023-04-26,2025-01-09,2025-03-03,active
+16,Company 16,Healthcare,OPEN,customer,3224,40999505,15,150987,2022-07-10,2024-01-20,2025-03-31,active
+17,Company 17,Education,OPEN,customer,2542,16923185,20,63460,2025-03-01,2026-12-22,2025-02-15,active
+18,Company 18,Healthcare,CLOSED,customer,3475,32283109,1,25595,2023-01-24,2024-07-03,2024-06-02,churned
+19,Company 19,Healthcare,OPEN,customer,4475,43031631,3,465027,2022-04-26,2025-04-23,2025-04-07,active
+20,Company 20,Technology,CLOSED,customer,3977,37686199,50,115795,2023-05-25,2024-12-20,2024-11-09,churned
